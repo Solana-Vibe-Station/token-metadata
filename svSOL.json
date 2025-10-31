@@ -2,6 +2,6 @@
   "name": "Solana Vibe Station Staked SOL",
   "symbol": "svSOL",
   "description": "Staking token representing staked SOL in the Solana Vibe Station stake pool.",
-  "image": "https://raw.githubusercontent.com/solana-vibe-station/token-metadata/main/images/svSOL.png",
+  "image": "https://raw.githubusercontent.com/Solana-Vibe-Station/token-metadata/main/images/svSOL.png",
   "external_url": "https://solanavibestation.com"
 }
